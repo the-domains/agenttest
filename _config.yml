@@ -4,11 +4,11 @@ color:
   lightness: 0.5617021
   brandStrength: 1
   brandColors:
-    - '#FFFFFF'
-    - '#898989'
-    - '#DFDCDA'
-    - '#736155'
-    - '#4C3A30'
+    - '#AD9C8B'
+    - '#FFF0CF'
+    - '#D14A2C'
+    - '#663F2E'
+    - '#7D1306'
   rhythmicContrast: 1
 typography_spectrum: 1
 name: Agenttest
