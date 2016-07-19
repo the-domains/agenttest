@@ -1,0 +1,14 @@
+layout_spectrum: 0.4340425
+color:
+  saturation: 0
+  lightness: 0.5893617
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#898989'
+    - '#DFDCDA'
+    - '#736155'
+    - '#4C3A30'
+  rhythmicContrast: 0.6886327
+typography_spectrum: 1
+name: Agenttest
