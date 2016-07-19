@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[Agenttest]]></title>
         <description><![CDATA[Agenttest]]></description>
-        <link>https://thegrid.ai/agenttest/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 17:36:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/agenttest/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Denne]]></title>
-            <description><![CDATA[<article><h1>Denne</h1><p>Lorem ipsum er opprinnelig et lettere redigert utdrag fra De finibus bonorum et malorum (Om det høyeste mål for godt og ondt) av Cicero. Opprinnelig begynte avsnittet: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit («Ingen liker smerte for smertens skyld, eller søker den og ønsker den, bare fordi den er smerte…») .</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f8931d6-43be-4335-920b-ef29660598e5.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f8931d6-43be-4335-920b-ef29660598e5.jpg</link>
-            <guid isPermaLink="false">8340034a-d2f0-457d-8a3d-e2627d2e11e2</guid>
-            <pubDate>Tue, 19 Jul 2016 17:36:40 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 19 Jul 2016 17:36:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Denne]]></title>
             <description><![CDATA[<article><h1>Denne</h1><p>Lorem ipsum er opprinnelig et lettere redigert utdrag fra De finibus bonorum et malorum (Om det høyeste mål for godt og ondt) av Cicero. Opprinnelig begynte avsnittet: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit («Ingen liker smerte for smertens skyld, eller søker den og ønsker den, bare fordi den er smerte…») .</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/804bd9ef-2e11-42e3-8c1f-7fe32c6c9bed.jpg"></article>]]></description>
